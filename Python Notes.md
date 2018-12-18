@@ -41,7 +41,7 @@ print("Sequence of myString[2 to remaining]:\t",myString[2:])
 ```
 >Sequence of myString[2 to remaining]:	 cdefghijklmnopqrstuvwxyz
 
-### Upto but not inclusing
+### Upto but not including
 ```python
 print("Sequence of myString[2 to 6]:\t",myString[2:6])
 ```
